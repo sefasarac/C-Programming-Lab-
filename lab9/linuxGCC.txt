@@ -1,0 +1,6 @@
+derleme komutu :
+	-   gcc lab9.c -o cikti
+
+test etmek için :
+	-   ./cikti
+
